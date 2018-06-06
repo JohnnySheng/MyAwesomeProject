@@ -6,7 +6,9 @@ Here are the details about perfect :www.perfect.org
 
 We can build the preject in Terminal.app:
 Before building you should set up your environment, for example swift 4.0.
+
 step 1: go to the folder: MyAwesomeProject
+
 step 2: swift build
 In this step, the dependices will be downloaded to the project. For example PerfectLib, PerfectHTTP, PerfectHTTPServer
 
